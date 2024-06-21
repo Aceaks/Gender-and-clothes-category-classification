@@ -1,4 +1,4 @@
-Gender and Sleeve Type Classification using YOLO v8
+**Gender and Sleeve Type Classification using YOLO v8**
 
 Welcome to the Gender and Sleeve Type Classification project! This project uses YOLO v8 for image segmentation to classify gender and sleeve types (full sleeves and half sleeves) from web-scraped images. All training data is annotated and models are prepared by me.
 
